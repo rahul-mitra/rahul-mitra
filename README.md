@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Mitra</h1>
-<h3 align="center">A passionate Full-stack developer with experience building web applications using Angular, ASP.NET Core, Node.js, and TypeScript. Proficient in developing APIs and Ui/Ux</h3>
+<h3 align="center">Full-Stack Developer with over 6 years of experience building scalable web applications using Angular, ASP.NET Core, Node.js, and TypeScript. Proficient in designing RESTful APIs and developing clean, user-centric UI/UX. Experienced in leveraging Microsoft Azure for cloud-based solutions, including communication services, event-driven architectures, and scalable deployments.</h3>
 
 - 💬 Ask me about **angular, dot net, javascript**
 
